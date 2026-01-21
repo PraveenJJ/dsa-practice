@@ -105,6 +105,8 @@ Find two different numbers in the list that add up to the target, and return the
 ### Space complexity - O(n)
 - We store up to n elements in a HashMap
 
+---
+
 ### Interview One-Liner
 I use a HashMap to store previously seen numbers and their indices.  
 For each element, I check if its complement exists, allowing me to solve the problem in O(n) time.
