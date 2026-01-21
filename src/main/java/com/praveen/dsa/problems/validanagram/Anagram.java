@@ -1,4 +1,4 @@
-package com.praveen.dsa.problems;
+package com.praveen.dsa.problems.validanagram;
 
 /**
  * Logic: Arrays + Frequency
