@@ -1,6 +1,4 @@
-# Valid Anagram
-
----
+> # Valid Anagram
 
 ## Problem Statement
 
@@ -31,7 +29,7 @@ Check whether both strings contain the **same characters, same number of times**
 
 ---
 
-## 1. Naive Solution (Sorting)
+> ## 1. Naive Solution (Sorting)
 
 ### Approach:
 - Convert both strings into character arrays
@@ -67,7 +65,7 @@ Check whether both strings contain the **same characters, same number of times**
 
 ---
 
-## 2. Naive Solution (HashMap – Without Sorting)
+> ## 2. Naive Solution (HashMap – Without Sorting)
 
 ### Approach:
 - If the lengths of the strings are different, return `false`
@@ -119,7 +117,7 @@ Check whether both strings contain the **same characters, same number of times**
 
 ---
 
-## 3. Optimized Solution (Frequency Array)
+> ## 3. Optimized Solution (Frequency Array)
 
 ### Key Insight
 - Anagrams depend on **character frequency**, not order

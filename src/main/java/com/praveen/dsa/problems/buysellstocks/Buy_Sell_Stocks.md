@@ -1,6 +1,4 @@
-# Best Time to Buy and Sell Stock
-
----
+> # Best Time to Buy and Sell Stock
 
 ## Problem Statement
 
@@ -34,7 +32,7 @@ Buy the stock at the **lowest possible price** and sell it later at a **higher p
 
 ---
 
-## 1. Naive Solution
+> ## 1. Naive Solution
 
 ### Approach:
 - Pick one day to buy the stock
@@ -66,7 +64,7 @@ Buy the stock at the **lowest possible price** and sell it later at a **higher p
 
 ---
 
-## 2. Optimized Solution
+> ## 2. Optimized Solution
 
 ### Key Insight
 - Instead of checking all future prices for every day, we can:

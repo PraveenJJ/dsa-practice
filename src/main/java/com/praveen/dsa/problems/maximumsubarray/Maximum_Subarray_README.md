@@ -1,6 +1,4 @@
-# Maximum Subarray (Kadane’s Algorithm)
-
----
+> # Maximum Subarray (Kadane’s Algorithm)
 
 ## Problem Statement
 
@@ -35,7 +33,7 @@ Find a continuous part of the array whose elements add up to the **maximum possi
 
 ---
 
-## 1. Naive Solution
+> ## 1. Naive Solution
 
 ### Approach:
 - Consider every possible subarray
@@ -69,7 +67,7 @@ Find a continuous part of the array whose elements add up to the **maximum possi
 
 ---
 
-## 2. Optimized Solution (Kadane’s Algorithm)
+> ## 2. Optimized Solution (Kadane’s Algorithm)
 
 ### Key Insight
 - At every index, decide whether to:

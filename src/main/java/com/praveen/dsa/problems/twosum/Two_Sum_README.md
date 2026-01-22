@@ -1,6 +1,5 @@
-# Two Sum
+> # Two Sum
 
----
 ## Problem Statement
 
 Given an array of integers `nums` and an integer `target`, return the indices of the two numbers such that they add up to the target.
@@ -26,7 +25,7 @@ Find two different numbers in the list that add up to the target, and return the
 
 ---
 
-## 1. Naive Solution
+> ## 1. Naive Solution
 
 ### Approach:
 - Pick one number
@@ -55,7 +54,7 @@ Find two different numbers in the list that add up to the target, and return the
 - No extra data structures are used
 
 ---
-## 2. Optimized Solution
+> ## 2. Optimized Solution
 
 ### Key Insight
 - If nums[i] + nums[j] = target, then nums[j] = target - nums[i].  

@@ -1,6 +1,4 @@
-# Contains Duplicate
-
----
+> # Contains Duplicate
 
 ## Problem Statement
 
@@ -30,7 +28,7 @@ Check whether the array contains **any duplicate number**.
 
 ---
 
-## 1. Naive Solution
+> ## 1. Naive Solution
 
 ### Approach:
 - Pick one number
@@ -61,7 +59,7 @@ Check whether the array contains **any duplicate number**.
 
 ---
 
-## 2. Optimized Solution
+> ## 2. Optimized Solution
 
 ### Key Insight
 - A `Set` does not allow duplicate values
