@@ -6,3 +6,5 @@
 4. [Valid Anagram](src/main/java/com/praveen/dsa/problems/validanagram/Valid_Anagram_README.md)
 5. [Maximum Subarray (Kadane’s Algorithm)](src/main/java/com/praveen/dsa/problems/maximumsubarray/Maximum_Subarray_README.md)
 6. [Move Zeroes](src/main/java/com/praveen/dsa/problems/movezeroes/Move_Zeroes_README.md)
+7. [Longest Common Prefix](src/main/java/com/praveen/dsa/problems/longestcommonprefix/Longest_Common_Prefix_README.md)
+8. [Valid Palindrome](src/main/java/com/praveen/dsa/problems/validpalindrome/Valid_Palindrome_README.md)
